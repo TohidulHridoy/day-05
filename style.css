@@ -1,0 +1,17 @@
+h1 span{
+    color:brown;
+    font-size: 60px;
+    font-family: sans-serif;
+}
+img{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+span{
+    font-family: "Itim", cursive;
+}
+.link{
+    color:aquamarine;
+}
